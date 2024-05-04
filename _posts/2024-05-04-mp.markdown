@@ -1,0 +1,10 @@
+---
+layout:   post
+title:    "帅气的网站"
+author:   "Dalong"
+header-style:  text
+catalog:    true
+tags:
+    -web
+    -JavaScript
+---
